@@ -42,14 +42,14 @@ Scripts for creating the data and some sample data for the eICU and MIMIC cohort
 
 ## Directory Structure
 
-\`\`\`
+```
 .
 ├── main_script.py
 ├── data/
 │   ├── create_data.py
 │   └── sample_data.csv
 └── README.md
-\`\`\`
+```
 
 ## Contributing
 
