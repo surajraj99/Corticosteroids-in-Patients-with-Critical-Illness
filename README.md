@@ -15,7 +15,7 @@ This retrospective multicenter study employs a target trial emulation framework 
 
 ## Installation
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/surajraj99/Corticosteroids-in-Patients-with-Sepsis.git
 
