@@ -28,26 +28,33 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Trial Emulation Scripts
-
-The main scripts for running the trial emulation are located in the main directory. To run the trial emulation, execute:
-
-```
-python main_script.py
-```
-
 ### Data Creation and Sample Data
 
 Scripts for creating the data and some sample data for the eICU and MIMIC cohorts are located in the `data` folder. Not all filepaths are correct and need to be rewritten to fit the user's file structure. For subtyping, refer to https://github.com/xuzhenxing2019/sepsis_subphenotype.
+
+### Trial Emulation Scripts
+
+The main scripts for running the trial emulation are located in the main directory. To run the trial emulation for each of the different outcomes, run the releveant notebooks (outcome is in the title). Sample data for running the files are already in the `data` folder. Only data and trial emulation script for eICU-MIMIC are available.
 
 ## Directory Structure
 
 ```
 .
-├── main_script.py
+├── 28 Day Mortality.ipynb
+├── Time to Discharge.ipynb
+├── Cessation of Mechanical Ventilation.ipynb
+├── Predict Zhenxing Subtypes - MIMIC.ipynb
+├── Predict Zhenxing Subtypes - eICU.ipynb
 ├── data/
-│   ├── create_data.py
-│   └── sample_data.csv
+│   ├── eICU
+|   |   ├── sample data files
+|   |   ├── scripts to create some eICU data
+|   |        ├── scripts
+│   ├── MIMIC
+|       ├── sample data files
+|       ├── scripts to create some MIMIC data
+|            ├── scripts
+│   └── MIMIC
 └── README.md
 ```
 
