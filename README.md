@@ -73,7 +73,7 @@ For more information, feel free to reach out to:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Cite Us
 Rajendran S, Xu Z, Pan W, Zhang C, Siempos I, Xu J, Bian J, Torres L, Schenck E, Wang F. 	Corticosteroids for infectious critical illness: A multicenter target trial emulation stratified by predicted organ dysfunction trajectory
