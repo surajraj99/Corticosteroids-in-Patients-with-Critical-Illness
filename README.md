@@ -36,7 +36,7 @@ Scripts for creating the data and some sample data for the eICU and MIMIC cohort
 
 ### Trial Emulation Scripts
 
-The main scripts for running the trial emulation are located in the main directory. To run the trial emulation for each of the different outcomes, run the releveant notebooks (outcome is in the title). Sample data for running the files are already in the `data` folder. Only data and trial emulation script for eICU-MIMIC are available.
+The main scripts for running the trial emulation are located in the main directory. To run the trial emulation for each of the different outcomes, run the releveant notebooks (outcome is in the title). Sample data for running the files are already in the `data` folder. Only data and trial emulation script for eICU-MIMIC are available. Trial emulation should take 5 - 10 minutes to run in total with a larger dataset.
 
 ## Directory Structure
 
