@@ -1,4 +1,4 @@
-# Corticosteroids in Patients with Sepsis: An Observational Research through Target Trial Emulations
+# CCorticosteroids for infectious critical illness: A multicenter target trial emulation stratified by predicted organ dysfunction trajectory
 
 ## Abstract Summary
 
