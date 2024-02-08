@@ -76,4 +76,4 @@ For more information, feel free to reach out to:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Cite Us
-Rajendran S, Xu Z, Pan W, Zhang C, Schenck E, Wang F. Corticosteroids in Patients with Sepsis: An Observational Research through Target Trial Emulations
+Rajendran S, Xu Z, Pan W, Zhang C, Siempos I, Xu J, Bian J, Torres L, Schenck E, Wang F. 	Corticosteroids for infectious critical illness: A multicenter target trial emulation stratified by predicted organ dysfunction trajectory
