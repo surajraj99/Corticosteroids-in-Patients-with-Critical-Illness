@@ -15,6 +15,8 @@ This retrospective multicenter study employs a target trial emulation framework 
 
 ## Installation
 
+Installation should take less than 10 minutes given you have a Python or Conda environment set up.
+
 ```
 # Clone the repository
 git clone https://github.com/surajraj99/Corticosteroids-in-Patients-with-Sepsis.git
